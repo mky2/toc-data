@@ -1,0 +1,119 @@
+# Serre - Local Fields
+-1
+Contents 6
++9
+Introduction 1
+Leitfaden 2
+-1
+I. Discrete Valuation Rings and Dedekind Domains 5
+    §1. Definition of Discrete Valuation Ring 5
+    §2. Characterisations of Discrete Valuation Rings 7
+    §3. Dedekind Domains 9
+    §4. Extensions 13
+    §5. The Norm and Inclusion Homomorphisms 15
+    §6. Example: Simple Extensions 17
+    §7. Galois Extensions 20
+    §8. Frobenius Substitution 23
+II. Completion 26
+    §1. Absolute Values and the Topology Defined by a Discrete Valuation 26
+    §2. Extensions of a Complete Field 28
+    §3. Extension and Completion 30
+    §4. Structure of Complete Discrete Valuation Rings I: Equal Characteristic Case 32
+    §5. Structure of Complete Discrete Valuation Rings II: Unequal Characteristic Case 36
+    §6. Witt Vectors 40
+-1
+III. Discriminant and Different 47
+    §1. Lattices 47
+    §2. Discriminant of a Lattice with Respect to a Bilinear Form 48
+    §3. Discriminant and Different of a Separable Extension 50
+    §4. Elementary Properties of the Different and Discriminant 51
+    §5. Unramified Extensions 53
+    §6. Computation of Different and Discriminant 55
+    §7. A Differential Characterisation of the Different 59
+IV. Ramification Groups 61
+    §1. Definition of the Ramification Groups; First Properties 61
+    §2. The Quotients Gᵢ/Gᵢ₊₁, i≥0 65
+    §3. The Functions 𝜙 and 𝜓; Herbrand's Theorem 73
+    §4. Example: Cyclotomic Extensions of the Field 𝗤ₚ 77
+V. The Norm 80
+    §1. Lemmas 80
+    §2. The Unramified Case 81
+    §3. The Cyclic of Prime Order Totally Ramified Case 83
+    §4. Extension of the Residue Field in a Totally Ramified Extension 87
+    §5. Multiplicative Polynomials and Additive Polynomials 90
+    §6. The Galois Totally Ramified Case 91
+    §7. Application:ProofoftheHasse-ArfTheorem 93
+VI. Artin Representation 97
+    §1. Representations and Characters 97
+    §2. Artin Representation 99
+    §3. Globalisation 103
+    §4. Artin Representation and Homology (for Algebraic Curves) 105
+-1
+VII. Basic Facts (Group Cohomology) 109
+    §1. G-Modules 109
+    §2. Cohomology 111
+    §3. Computing the Cohomology via Cochains 112
+    §4. Homology 114
+    §5. Change of Group 115
+    §6. An Exact Sequence 117
+    §7. Subgroups of Finite Index 118
+    §8. Transfer 120
+A1. Non-abelian Cohomology 123
+VIII. Cohomology of Finite Groups 127
+    §1. The Tate Cohomology Groups 127
+    §2. Restriction and Corestriction 129
+    §3. Cup Products 131
+    §4. Cohomology of Finite Cyclic Groups. Herbrand Quotient 132
+    §5. Herbrand Quotient in the Cyclic of Prime Order Case 134
+IX. Theorems of Tate and Nakayama 138
+    §1. p-Groups 138
+    §2. Sylow Subgroups 139
+    §3. Induced Modules; Cohomologically Trivial Modules 141
+    §4. Cohomology of a p-Group 142
+    §5. Cohomology of a Finite Group 144
+    §6. Dual Results 146
+    §7. Comparison Theorem 147
+    §8. The Theorem of Tate and Nakayama 148
+X. Galois Cohomology 150
+    §1. First Examples 150
+    §2. Several Examples of "Descent" 152
+    §3. Infinite Galois Extensions 154
+    §4. The Brauer Group 155
+    §5. Comparison with the Classical Definition of the Brauer Group 157
+    §6. Geometric Interpretation of the Brauer Group: Severi-Brauer Varieties 160
+    §7. Examples of Brauer Groups 161
+XI. Class Formations 164
+    §1. The Notion of Formation 164
+    §2. Class Formations 166
+    §3. Fundamental Classes and Reciprocity Isomorphism 168
+    §4. Abelian Extensions and Norm Groups 171
+    §5. The Existence Theorem 173
+A2. Computations of Cup Products 176
+-1
+XII. Brauer Group of a Local Field 181
+    §1. Existence of an Unramified Splitting Field 181
+    §2. Existence of an Unramified Splitting Field (Direct Proof) 182
+    §3. Determination of the Brauer Group 184
+XIII. Local Class Field Theory 188
+    §1. The Group Ẑ and Its Cohomology 188
+    §2. Quasi-Finite Fields 190
+    §3. The Brauer Group 192
+    §4. Class Formation 195
+    §5. Dwork's Theorem 199
+XIV. Local Symbols and Existence Theorem 204
+    §1. General Definition of Local Symbols 204
+    §2. The Symbol (a,b) 205
+    §3. Computation of the Symbol (a,b)ᵥ in the Tamely Ramified Case 209
+    §4. Computation of the Symbol (a,b)ᵥ for the Field 𝗤ₚ (n = 2) 211
+    §5. The symbols [a,b) 214
+    §6. The Existence Theorem 218
+    §7. Example: The Maximal Abelian Extension of 𝗤ₚ 220
+A3. The Global Case (Statement of Results) 221
+XV. Ramification 223
+    §1. Kernel and Cokernel of an Additive (resp. Multiplicative) Polynomial 223
+    §2. The Norm Groups 226
+    §3. Explicit Computations 229
+Bibliography 232
+Supplementary Bibliography for the English Edition 235
+-1
+Index 239
