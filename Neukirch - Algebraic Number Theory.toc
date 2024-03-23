@@ -38,42 +38,42 @@ III: Riemann-Roch Theory 183
     § 7. Grothendieck-Riemann-Roch 246
     § 8. The Euler-Minkowski Characteristic 255
 IV: Abstract Class Field Theory 261
-    §1. Infinite Galois Theory 261
-    §2. Projective and Inductive Limits 265
-    §3. Abstract Galois Theory 275
-    §4. Abstract Valuation Theory 284
-    §5. The Reciprocity Map 290
-    §6. The General Reciprocity Law 295
-    §7. The Herbrand Quotient 310
+    § 1. Infinite Galois Theory 261
+    § 2. Projective and Inductive Limits 265
+    § 3. Abstract Galois Theory 275
+    § 4. Abstract Valuation Theory 284
+    § 5. The Reciprocity Map 290
+    § 6. The General Reciprocity Law 295
+    § 7. The Herbrand Quotient 310
 V: Local Class Field Theory 317
-    §1. The Local Reciprocity Law 317
-    §2. The Norm Residue Symbol over 𝙌_p 327
-    §3. The Hilbert Symbol 331
-    §4. Formal Groups 341
-    §5. Generalized Cyclotomic Theory 346
-    §6. Higher Ramification Groups 352
+    § 1. The Local Reciprocity Law 317
+    § 2. The Norm Residue Symbol over 𝙌_p 327
+    § 3. The Hilbert Symbol 331
+    § 4. Formal Groups 341
+    § 5. Generalized Cyclotomic Theory 346
+    § 6. Higher Ramification Groups 352
 VI: Global Class Field Theory 357
-    §1. Idèles and Idèles Classes 357
-    §2. Idèles in Field Extensions 368
-    §3. The Herbrand Quotient of the Idèles Class Group 373
-    §4. The Class Field Axiom 380
-    §5. The Global Reciprocity Law 385
-    §6. Global Class Fields 395
-    §7. The Ideal-Theoretic Version of Class Field Theory 405
-    §8. The Reciprocity Law of the Power Residues 414
+    § 1. Idèles and Idèles Classes 357
+    § 2. Idèles in Field Extensions 368
+    § 3. The Herbrand Quotient of the Idèles Class Group 373
+    § 4. The Class Field Axiom 380
+    § 5. The Global Reciprocity Law 385
+    § 6. Global Class Fields 395
+    § 7. The Ideal-Theoretic Version of Class Field Theory 405
+    § 8. The Reciprocity Law of the Power Residues 414
 VII: Zeta Functions and L-series 419
-    §1. The Riemann Zeta Function 419
-    §2. Dirichlet L-series 434
-    §3. Theta Series 436
-    §4. The Higher-dimensional Gamma Function 453
-    §5. The Dedekind Zeta Function 457
-    §6. Hecke Characters 470
-    §7. Theta Series of Algebraic Number Fields 484
-    §8. Hecke L-series 493
-    §9. Values of Dirichlet L-series at Integer Points 504
-    §10. Artin L-series 517
-    §11. The Artin Conductor 527
-    §12. The Functional Equation of Artin L-series 535
-    §13. Density Theorems 542
+    § 1. The Riemann Zeta Function 419
+    § 2. Dirichlet L-series 434
+    § 3. Theta Series 436
+    § 4. The Higher-dimensional Gamma Function 453
+    § 5. The Dedekind Zeta Function 457
+    § 6. Hecke Characters 470
+    § 7. Theta Series of Algebraic Number Fields 484
+    § 8. Hecke L-series 493
+    § 9. Values of Dirichlet L-series at Integer Points 504
+    § 10. Artin L-series 517
+    § 11. The Artin Conductor 527
+    § 12. The Functional Equation of Artin L-series 535
+    § 13. Density Theorems 542
 Bibliography 551
 Index 559
