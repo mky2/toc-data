@@ -34,7 +34,7 @@ IV. Ramification Groups 61
     §1. Definition of the Ramification Groups; First Properties 61
     §2. The Quotients Gᵢ/Gᵢ₊₁, i≥0 65
     §3. The Functions 𝜙 and 𝜓; Herbrand's Theorem 73
-    §4. Example: Cyclotomic Extensions of the Field 𝗤ₚ 77
+    §4. Example: Cyclotomic Extensions of the Field ℚₚ 77
 V. The Norm 80
     §1. Lemmas 80
     §2. The Unramified Case 81
@@ -104,10 +104,10 @@ XIV. Local Symbols and Existence Theorem 204
     §1. General Definition of Local Symbols 204
     §2. The Symbol (a,b) 205
     §3. Computation of the Symbol (a,b)ᵥ in the Tamely Ramified Case 209
-    §4. Computation of the Symbol (a,b)ᵥ for the Field 𝗤ₚ (n = 2) 211
+    §4. Computation of the Symbol (a,b)ᵥ for the Field ℚₚ (n = 2) 211
     §5. The symbols [a,b) 214
     §6. The Existence Theorem 218
-    §7. Example: The Maximal Abelian Extension of 𝗤ₚ 220
+    §7. Example: The Maximal Abelian Extension of ℚₚ 220
 A3. The Global Case (Statement of Results) 221
 XV. Ramification 223
     §1. Kernel and Cokernel of an Additive (resp. Multiplicative) Polynomial 223

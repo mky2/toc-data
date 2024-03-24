@@ -47,7 +47,7 @@ IV: Abstract Class Field Theory 261
     §7. The Herbrand Quotient 310
 V: Local Class Field Theory 317
     §1. The Local Reciprocity Law 317
-    §2. The Norm Residue Symbol over 𝗤ₚ 327
+    §2. The Norm Residue Symbol over ℚₚ 327
     §3. The Hilbert Symbol 331
     §4. Formal Groups 341
     §5. Generalized Cyclotomic Theory 346
