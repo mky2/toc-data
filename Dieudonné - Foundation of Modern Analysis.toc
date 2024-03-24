@@ -1,4 +1,4 @@
-# Table of content file for Dieudonne Treatise on Analysis
+# Table of content file for Dieudonné - Treatise on Analysis
 Preface 5
 Contents 11
 # global offset
