@@ -4,7 +4,7 @@ Contents 6
 +9
 Introduction 1
 Leitfaden 2
--1
+\blank
 I. Discrete Valuation Rings and Dedekind Domains 5
     §1. Definition of Discrete Valuation Ring 5
     §2. Characterisations of Discrete Valuation Rings 7
@@ -21,7 +21,7 @@ II. Completion 26
     §4. Structure of Complete Discrete Valuation Rings I: Equal Characteristic Case 32
     §5. Structure of Complete Discrete Valuation Rings II: Unequal Characteristic Case 36
     §6. Witt Vectors 40
--1
+\blank
 III. Discriminant and Different 47
     §1. Lattices 47
     §2. Discriminant of a Lattice with Respect to a Bilinear Form 48
@@ -48,7 +48,7 @@ VI. Artin Representation 97
     §2. Artin Representation 99
     §3. Globalisation 103
     §4. Artin Representation and Homology (for Algebraic Curves) 105
--1
+\blank
 VII. Basic Facts (Group Cohomology) 109
     §1. G-Modules 109
     §2. Cohomology 111
@@ -89,7 +89,7 @@ XI. Class Formations 164
     §4. Abelian Extensions and Norm Groups 171
     §5. The Existence Theorem 173
 A2. Computations of Cup Products 176
--1
+\blank
 XII. Brauer Group of a Local Field 181
     §1. Existence of an Unramified Splitting Field 181
     §2. Existence of an Unramified Splitting Field (Direct Proof) 182
@@ -115,5 +115,5 @@ XV. Ramification 223
     §3. Explicit Computations 229
 Bibliography 232
 Supplementary Bibliography for the English Edition 235
--1
+\blank
 Index 239
