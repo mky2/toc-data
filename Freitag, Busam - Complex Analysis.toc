@@ -1,0 +1,76 @@
+Cover 0
+Preface 5
+Contents 6
++7
+Introduction 1
+-1
+I Differential Calculus in the Complex Plane ℂ 9
+    I.1 Complex Numbers 9
+    I.2 Convergent Sequences and Series 24
+    I.3 Continuity 36
+    I.4 Complex Derivatives 42
+    I.5 The Cauchy-Riemann Differential Equations 47
+II Integral Calculus in the Complex Plane ℂ 69
+    II.1 Complex Line Integrals 70
+    II.2 The Cauchy Integral Theorem 77
+    II.3 The Cauchy Integral Formulas 92
+-1
+III Sequences and Series of Analytic Functions, the Residue Theorem 103
+    III.1 Uniform Approximation 104
+    III.2 Power Series 109
+    III.3 Mapping Properties of Analytic Functions 124
+    III.4 Singularities of Analytic Functions 133
+    III.5 Laurent Decomposition 142
+    A Appendix to III.4 and III.5 155
+    III.6 The Residue Theorem 162
+    III.7 Applications of the Residue Theorem 170
+IV Construction of Analytic Functions 191
+    IV.1 The Gamma Function 192
+    IV.2 The Weierstrass Product Formula 210
+    IV.3 The Mittag-Leffler Partial Fraction Decomposition 218
+    IV.4 The Riemann Mapping Theorem 223
+    A Appendix : The Homotopical Version of the Cauchy Integral Theorem 233
+    B Appendix : A Homological Version of the Cauchy Integral Theorem 239
+    C Appendix : Characterizations of Elementary Domains 244
+-1
+V Elliptic Functions 251
+    V.1 Liouville’s Theorems 252
+    A Appendix to the Definition of the Period Lattice 259
+    V.2 The Weierstrass ℘-function 261
+    V.3 The Field of Elliptic Functions 267
+    A Appendix to Sect. V.3 : The Torus as an Algebraic Curve 271
+    V.4 The Addition Theorem 278
+    V.5 Elliptic Integrals 284
+    V.6 Abel’s Theorem 291
+    V.7 The Elliptic Modular Group 301
+    V.8 The Modular Function j 309
+-1
+VI Elliptic Modular Forms 317
+    VI.1 The Modular Group and Its Fundamental Region 318
+    VI.2 The k/12-formula and the Injectivity of the j-function 326
+    VI.3 The Algebra of Modular Forms 334
+    VI.4 Modular Forms and Theta Series 338
+    VI.5 Modular Formsfor Congruence Groups 352
+    A Appendix to VI.5 : The Theta Group 363
+    VI.6 A Ring of Theta Functions 370
+-1
+VII Analytic Number Theory 381
+    VII.1 Sums of Four and Eight Squares 382
+    VII.2 Dirichlet Series 399
+    VII.3 Dirichlet Series with Functional Equations 408
+    VII.4 The Riemann ζ-function and Prime Numbers 421
+    VII.5 The Analytic Continuation of the ζ-function 429
+    VII.6 A Tauberian Theorem 436
+VIII Solutions to the Exercises 449
+    VIII.1 Solutions to the Exercises of Chapter I 449
+    VIII.2 Solutions to the Exercises of Chapter II 459
+    VIII.3 Solutions to the Exercises of Chapter III 464
+    VIII.4 Solutions to the Exercises of Chapter IV 475
+    VIII.5 Solutions to the Exercises of Chapter V 482
+    VIII.6 Solutions to the Exercises of Chapter VI 490
+    VIII.7 Solutions to the Exercises of Chapter VII 498
+-1
+References 509
+-1
+Symbolic Notations 519
+Index 521
