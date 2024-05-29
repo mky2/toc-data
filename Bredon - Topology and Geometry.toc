@@ -8,7 +8,7 @@ I General Topology 1
     Subspaces 8
     Connectivity and Components 10
     Separation Axioms 12
-    Nets (Moore-Smith Convergence) 14
+    Nets (Moore-Smith Convergence)* 14
     Compactness 18
     Products 22
     Metric Spaces Again 25
@@ -33,11 +33,11 @@ II Differentiable Manifolds 63
     Tangent Bundles 88
     Embedding in Euclidean Space 89
     Tubular Neighborhoods and Approximations 92
-    Classical Lie Groups 101
-    Fiber Bundles 106
-    Induced Bundles and Whitney Sums 111
-    Transversality 114
-    Thom-Pontryagin Theory 118
+    Classical Lie Groups* 101
+    Fiber Bundles* 106
+    Induced Bundles and Whitney Sums* 111
+    Transversality* 114
+    Thom-Pontryagin Theory* 118
 
 III: Fundamental Group 127
     Homotopy Groups 127
@@ -48,8 +48,8 @@ III: Fundamental Group 127
     Deck Transformations 147
     Properly Discontinuous Actions 150
     Classification of Covering Spaces 154
-    The Seifert–Van Kampen Theorem 158
-    Remarks on SO(3) 164
+    The Seifert–Van Kampen Theorem* 158
+    Remarks on SO(3)* 164
 
 IV: Homology Theory 168
     Homology Groups 168
@@ -63,7 +63,7 @@ IV: Homology Theory 168
     Conventions for CW-Complexes 198
     Cellular Homology 200
     Cellular Maps 207
-    Products of CW-Complexes 211
+    Products of CW-Complexes* 211
     Euler's Formula 215
     Homology of Real Projective Space 217
     Singular Homology 219
@@ -86,9 +86,9 @@ V: Cohomology 260
     Universal Coefficient Theorems 281
     Excision and Homotopy 285
     de Rham's Theorem 286
-    The de Rham Theory of CP^n 292
-    Hopf's Theorem on Maps to Spheres 297
-    Differential Forms on Compact Lie Groups 304
+    The de Rham Theory of CP^n* 292
+    Hopf's Theorem on Maps to Spheres* 297
+    Differential Forms on Compact Lie Groups* 304
 
 VI: Products and Duality 315
     The Cross Product and the Künneth Theorem 315
@@ -96,19 +96,19 @@ VI: Products and Duality 315
     The Cohomology Cross Product 321
     The Cup Product 326
     The Cap Product 334
-    Classical Outlook on Duality 338
+    Classical Outlook on Duality* 338
     The Orientation Bundle 340
     Duality Theorems 348
     Duality on Compact Manifolds with Boundary 355
     Applications of Duality 359
-    Intersection Theory 366
-    The Euler Class, Lefschetz Numbers, and Vector Fields 378
-    The Gysin Sequence 390
-    Lefschetz Coincidence Theory 393
-    Steenrod Operations 404
-    Construction of the Steenrod Squares 412
-    Stiefel-Whitney Classes 420
-    Plumbing 426
+    Intersection Theory* 366
+    The Euler Class, Lefschetz Numbers, and Vector Fields* 378
+    The Gysin Sequence* 390
+    Lefschetz Coincidence Theory* 393
+    Steenrod Operations* 404
+    Construction of the Steenrod Squares* 412
+    Stiefel-Whitney Classes* 420
+    Plumbing* 426
 
 VII: Homotopy Theory 430
     Cofibrations 430
@@ -122,9 +122,9 @@ VII: Homotopy Theory 430
     The Homotopy Addition Theorem 469
     The Hurewicz Theorem 475
     The Whitehead Theorem 480
-    Eilenberg-MacLane Spaces 488
-    Obstruction Theory 497
-    Obstruction Cochains and Vector Bundles 511
+    Eilenberg-Mac Lane Spaces 488
+    Obstruction Theory* 497
+    Obstruction Cochains and Vector Bundles* 511
 
 -1
 Appendices 519
