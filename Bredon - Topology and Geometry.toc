@@ -1,0 +1,140 @@
+Preface 5
+Acknowledgments 8
+Contents 9
++12
+I General Topology 1
+    Metric Spaces 1
+    Topological Spaces 3
+    Subspaces 8
+    Connectivity and Components 10
+    Separation Axioms 12
+    Nets (Moore-Smith Convergence) 14
+    Compactness 18
+    Products 22
+    Metric Spaces Again 25
+    Existence of Real Valued Functions 29
+    Locally Compact Spaces 31
+    Paracompact Spaces 35
+    Quotient Spaces 39
+    Homotopy 44
+    Topological Groups 51
+    Convex Bodies 56
+    The Baire Category Theorem 57
+
+II Differentiable Manifolds 63
+    The Implicit Function Theorem 63
+    Differentiable Manifolds 68
+    Local Coordinates 71
+    Induced Structures and Examples 72
+    Tangent Vectors and Differentials 76
+    Sard's Theorem and Regular Values 80
+    Local Properties of Immersions and Submersions 82
+    Vector Fields and Flows 86
+    Tangent Bundles 88
+    Embedding in Euclidean Space 89
+    Tubular Neighborhoods and Approximations 92
+    Classical Lie Groups 101
+    Fiber Bundles 106
+    Induced Bundles and Whitney Sums 111
+    Transversality 114
+    Thom-Pontryagin Theory 118
+
+III: Fundamental Group 127
+    Homotopy Groups 127
+    The Fundamental Group 132
+    Covering Spaces 138
+    The Lifting Theorem 143
+    The Action of π₁ on the Fiber 146
+    Deck Transformations 147
+    Properly Discontinuous Actions 150
+    Classification of Covering Spaces 154
+    The Seifert–Van Kampen Theorem 158
+    Remarks on SO(3) 164
+
+IV: Homology Theory 168
+    Homology Groups 168
+    The Zeroth Homology Group 172
+    The First Homology Group 172
+    Functorial Properties 175
+    Homological Algebra 177
+    Axioms for Homology 182
+    Computation of Degrees 190
+    CW-Complexes 194
+    Conventions for CW-Complexes 198
+    Cellular Homology 200
+    Cellular Maps 207
+    Products of CW-Complexes 211
+    Euler's Formula 215
+    Homology of Real Projective Space 217
+    Singular Homology 219
+    The Cross Product 220
+    Subdivision 223
+    The Mayer–Vietoris Sequence 228
+    The Generalized Jordan Curve Theorem 230
+    The Borsuk–Ulam Theorem 240
+    Simplicial Complexes 245
+    Simplicial Maps 250
+    The Lefschetz-Hopf Fixed Point Theorem 253
+
+V: Cohomology 260
+    Multilinear Algebra 260
+    Differential Forms 261
+    Integration of Forms 265
+    Stokes' Theorem 267
+    Relationship to Singular Homology 269
+    More Homological Algebra 271
+    Universal Coefficient Theorems 281
+    Excision and Homotopy 285
+    de Rham's Theorem 286
+    The de Rham Theory of CP^n 292
+    Hopf's Theorem on Maps to Spheres 297
+    Differential Forms on Compact Lie Groups 304
+
+VI: Products and Duality 315
+    The Cross Product and the Künneth Theorem 315
+    A Sign Convention 321
+    The Cohomology Cross Product 321
+    The Cup Product 326
+    The Cap Product 334
+    Classical Outlook on Duality 338
+    The Orientation Bundle 340
+    Duality Theorems 348
+    Duality on Compact Manifolds with Boundary 355
+    Applications of Duality 359
+    Intersection Theory 366
+    The Euler Class, Lefschetz Numbers, and Vector Fields 378
+    The Gysin Sequence 390
+    Lefschetz Coincidence Theory 393
+    Steenrod Operations 404
+    Construction of the Steenrod Squares 412
+    Stiefel-Whitney Classes 420
+    Plumbing 426
+
+VII: Homotopy Theory 430
+    Cofibrations 430
+    The Compact-Open Topology 437
+    H-Spaces, H-Groups, and H-Cogroups 441
+    Homotopy Groups 443
+    The Homotopy Sequence of a Pair 445
+    Fiber Spaces 450
+    Free Homotopy 457
+    Classical Groups and Associated Manifolds 463
+    The Homotopy Addition Theorem 469
+    The Hurewicz Theorem 475
+    The Whitehead Theorem 480
+    Eilenberg-MacLane Spaces 488
+    Obstruction Theory 497
+    Obstruction Cochains and Vector Bundles 511
+
+-1
+Appendices 519
+    A. The Additivity Axiom 519
+    B. Background in Set Theory 522
+    C. Critical Values 531
+    D. Direct Limits 534
+    E. Euclidean Neighborhood Retracts 536
+
+Bibliography 541
+-1
+Index of Symbols 545
+Index 549
