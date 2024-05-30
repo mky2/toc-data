@@ -1,6 +1,6 @@
 Contents 9
 +9
-CHAPTER I: Lie Groups and Lie Algebras I 1
+CHAPTER I: Lie Groups and Lie Algebras 1
     The Concept of a Lie Group and the Classical Examples 1
     Left-Invariant Vector Fields and One-Parameter Groups 11
     The Exponential Map 22
