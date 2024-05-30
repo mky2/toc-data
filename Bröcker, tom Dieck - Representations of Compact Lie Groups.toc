@@ -1,0 +1,62 @@
+Contents 9
++9
+CHAPTER I: Lie Groups and Lie Algebras I 1
+    The Concept of a Lie Group and the Classical Examples 1
+    Left-Invariant Vector Fields and One-Parameter Groups 11
+    The Exponential Map 22
+    Homogeneous Spaces and Quotient Groups 30
+    Invariant Integration 40
+    Clifford Algebras and Spinor Groups 54
+
+CHAPTER II: Elementary Representation Theory 64
+    Representations 65
+    Semisimple Modules 72
+    Linear Algebra and Representations 74
+    Characters and Orthogonality Relations 77
+    Representations of SU(2), SO(3), U(2), and O(3) 84
+    Real and Quaternionic Representations 93
+    The Character Ring and the Representation Ring 102
+    Representations of Abelian Groups 107
+    Representations of Lie Algebras 111
+    The Lie Algebra sl(2,ℂ) 115
+
+CHAPTER III: Representative Functions 123
+    Algebras of Representative Functions 123
+    Some Analysis on Compact Groups 129
+    The Theorem of Peter and Weyl 133
+    Applications of the Theorem of Peter and Weyl 136
+    Generalizations of the Theorem of Peter and Weyl 138
+    Induced Representations 143
+    Tannaka-Krein Duality 146
+    The Complexification of Compact Lie Groups 151
+
+CHAPTER IV: The Maximal Torus of a Compact Lie Group 157
+    Maximal Tori 157
+    Consequences of the Conjugation Theorem 164
+    The Maximal Tori and Weyl Groups of the Classical Groups 169
+    Cartan Subgroups of Nonconnected Compact Groups 176
+
+CHAPTER V: Root Systems 183
+    The Adjoint Representation and Groups of Rank 1 183
+    Roots and Weyl Chambers 189
+    Root Systems 197
+    Bases and Weyl Chambers 202
+    Dynkin Diagrams 209
+    The Roots of the Classical Groups 216
+    The Fundamental Group, the Center and the Stiefel Diagram 223
+    The Structure of the Compact Groups 232
+
+CHAPTER VI: Irreducible Characters and Weights 239
+    The Weyl Character Formula 239
+    The Dominant Weight and the Structure of the Representation Ring 249
+    The Multiplicities of the Weights of an Irreducible Representation 257
+    Representations of Real or Quaternionic Type 261
+    Representations of the Classical Groups 265
+    Representations of the Spinor Groups 278
+    Representations of the Orthogonal Groups 292
+
+Bibliography 299
+-1
+Symbol Index 305
+-1
+Subject Index 307
