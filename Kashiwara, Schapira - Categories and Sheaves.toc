@@ -1,0 +1,154 @@
+-1
+Preface 4
+Contents 6
++9
+Introduction 1
+1 The Language of Categories 9  
+    1.1 Preliminaries: Sets and Universes 10  
+    1.2 Categories and Functors 11  
+    1.3 Morphisms of Functors 19  
+    1.4 The Yoneda Lemma 23  
+    1.5 Adjoint Functors 27  
+    Exercises 30
+2 Limits 35  
+    2.1 Limits 36  
+    2.2 Examples 43  
+    2.3 Kan Extension of Functors 50  
+    2.4 Inductive Limits in the Category Set 54  
+    2.5 Cofinal Functors 57  
+    2.6 Ind-lim and Pro-lim 59  
+    2.7 Yoneda Extension of Functors 62  
+    Exercises 64
+-1
+3 Filtrant Limits 71  
+    3.1 Filtrant Inductive Limits in the Category Set 71  
+    3.2 Filtrant Categories 78  
+    3.3 Exact Functors 81  
+    3.4 Categories Associated with Two Functors 87  
+    Exercises 90
+-1
+4 Tensor Categories 93  
+    4.1 Projectors 93  
+    4.2 Tensor Categories 96  
+    4.3 Rings, Modules and Monads 103  
+    Exercises 107
+
+-1
+5 Generators and Representability 113  
+    5.1 Strict Morphisms 113  
+    5.2 Generators and Representability 117  
+    5.3 Strictly Generating Subcategories 121  
+    Exercises 128
+
+6 Indization of Categories 131  
+    6.1 Indization of Categories and Functors 131  
+    6.2 Representable Ind-limits 138  
+    6.3 Indization of Categories Admitting Inductive Limits 139  
+    6.4 Finite Diagrams in Ind(C) 142  
+    Exercises 145
+-1
+7 Localization 149  
+    7.1 Localization of Categories 149  
+    7.2 Localization of Subcategories 158  
+    7.3 Localization of Functors 159  
+    7.4 Indization and Localization 161  
+    Exercises 163
+-1
+8 Additive and Abelian Categories 167  
+    8.1 Group Objects 167  
+    8.2 Additive Categories 169  
+    8.3 Abelian Categories 175  
+    8.4 Injective Objects 186  
+    8.5 Ring Action 188  
+    8.6 Indization of Abelian Categories 193  
+    8.7 Extension of Exact Functors 197  
+    Exercises 201
+-1
+9 π-accessible Objects and ℱ-injective Objects 215  
+    9.1 Cardinals 216  
+    9.2 π-filtrant Categories and π-accessible Objects 217  
+    9.3 π-accessible Objects and Generators 223  
+    9.4 Quasi-Terminal Objects 228  
+    9.5 ℱ-injective Objects 231  
+    9.6 Applications to Abelian Categories 235  
+    Exercises 239
+10 Triangulated Categories 241  
+    10.1 Triangulated Categories 242  
+    10.2 Localization of Triangulated Categories 248  
+    10.3 Localization of Triangulated Functors 253  
+    10.4 Extension of Cohomological Functors 256  
+    10.5 The Brown Representability Theorem 258  
+    Exercises 265
+11 Complexes in Additive Categories 269  
+    11.1 Differential Objects and Mapping Cones 270  
+    11.2 The Homotopy Category 272  
+    11.3 Complexes in Additive Categories 278  
+    11.4 Simplicial Constructions 282  
+    11.5 Double Complexes 285  
+    11.6 Bifunctors 289
+    11.7 The Complex Hom^{•} 292
+    Exercises 293
+12 Complexes in Abelian Categories 297  
+    12.1 The Snake Lemma 297  
+    12.2 Abelian Categories with Translation 300  
+    12.3 Complexes in Abelian Categories 302  
+    12.4 Example: Koszul Complexes 306  
+    12.5 Double Complexes 313  
+    Exercises 316
+13 Derived Categories 319  
+    13.1 Derived Categories 319  
+    13.2 Resolutions 325  
+    13.3 Derived Functors 329  
+    13.4 Bifunctors 337  
+    Exercises 340
+-1
+14 Unbounded Derived Categories 347  
+    14.1 Derived Categories of Abelian Categories with Translation 347  
+    14.2 The Brown Representability Theorem 353  
+    14.3 Unbounded Derived Category 354  
+    14.4 Left Derived Functors 357  
+    Exercises 366
+15 Indization and Derivation of Abelian Categories 369  
+    15.1 Injective Objects in Ind(𝒞) 369  
+    15.2 Quasi-injective Objects 372  
+    15.3 Derivation of Ind-categories 374  
+    15.4 Indization and Derivation 381  
+    Exercises 387
+-1
+16 Grothendieck Topologies 389  
+    16.1 Sieves and Local Epimorphisms 389  
+    16.2 Local Isomorphisms 394  
+    16.3 Localization by Local Isomorphisms 399  
+    Exercises 401
+-1
+17 Sheaves on Grothendieck Topologies 405  
+    17.1 Presites and Presheaves 405  
+    17.2 Sites 411  
+    17.3 Sheaves 414  
+    17.4 Sheaf Associated with a Presheaf 417  
+    17.5 Direct and Inverse Images 423  
+    17.6 Restriction and Extension of Sheaves 424  
+    17.7 Internal Hom 429  
+    Exercises 431
+-1
+18 Abelian Sheaves 435
+    18.1 ℛ-modules 435
+    18.2 Tensor Product and Internal ℋom 438
+    18.3 Direct and Inverse Images 442
+    18.4 Derived Functors for Hom and ℋom 444
+    18.5 Flatness 445
+    18.6 Ringed Sites 449
+    18.7 Čech Coverings 455
+    Exercises 459
+19 Stacks and Twisted Sheaves 461
+    19.1 Prestacks 461
+    19.2 Simply Connected Categories 466
+    19.3 Simplicial Constructions 467
+    19.4 Stacks 470
+    19.5 Morita Equivalence 474
+    19.6 Twisted Sheaves 477
+    Exercises 480
+-1
+References 483
+List of Notations 487
+Index 491
