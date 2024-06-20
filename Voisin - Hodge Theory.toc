@@ -1,0 +1,176 @@
+-1
+Contents 5
++10
+Introduction 1
+I Preliminaries 19
+    1 Holomorphic Functions of Many Variables 21
+        1.1 Holomorphic functions of one variable 22
+            1.1.1 Definition and basic properties 22
+            1.1.2 Background on Stokes’ formula 24
+            1.1.3 Cauchy’s formula 27
+        1.2 Holomorphic functions of several variables 28
+            1.2.1 Cauchy’s formula and analyticity 28
+            1.2.2 Applications of Cauchy’s formula 30
+        1.3 The equation ∂̅g = f 35
+        Exercises 37
+    2 Complex Manifolds 38
+        2.1 Manifolds and vector bundles 39
+            2.1.1 Definitions 39
+            2.1.2 The tangent bundle 41
+            2.1.3 Complex manifolds 43
+        2.2 Integrability of almost complex structures 44
+            2.2.1 Tangent bundle of a complex manifold 44
+            2.2.2 The Frobenius theorem 46
+            2.2.3 The Newlander–Nirenberg theorem 50
+        2.3 The operators ∂ and ∂̅ 53
+            2.3.1 Definition 53
+            2.3.2 Local exactness 55
+            2.3.3 Dolbeault complex of a holomorphic bundle 57
+        2.4 Examples of complex manifolds 59
+        Exercises 61
+    3 Kähler Metrics 63
+        3.1 Definition and basic properties 64
+            3.1.1 Hermitian geometry 64
+            3.1.2 Hermitian and Kähler metrics 66
+            3.1.3 Basic properties 67
+        3.2 Characterisations of Kähler metrics 69
+            3.2.1 Background on connections 69
+            3.2.2 Kähler metrics and connections 71
+        3.3 Examples of Kähler manifolds 75
+            3.3.1 Chern form of line bundles 75
+            3.3.2 Fubini–Study metric 76
+            3.3.3 Blowups 78
+        Exercises 82
+    4 Sheaves and Cohomology 83
+        4.1 Sheaves 85
+            4.1.1 Definitions, examples 85
+            4.1.2 Stalks, kernels, images 89
+            4.1.3 Resolutions 91
+        4.2 Functors and derived functors 95
+            4.2.1 Abelian categories 95
+            4.2.2 Injective resolutions 96
+            4.2.3 Derived functors 99
+        4.3 Sheaf cohomology 102
+            4.3.1 Acyclic resolutions 103
+            4.3.2 The de Rham theorems 108
+            4.3.3 Interpretations of the group H¹ 110
+        Exercises 113
+
+II The Hodge Decomposition 115
+    5 Harmonic Forms and Cohomology 117
+        5.1 Laplacians 119
+            5.1.1 The L² metric 119
+            5.1.2 Formal adjoint operators 121
+            5.1.3 Adjoints of the operators ∂̅ 121
+            5.1.4 Laplacians 124
+        5.2 Elliptic differential operators 125
+            5.2.1 Symbols of differential operators 125
+            5.2.2 Symbol of the Laplacian 126
+            5.2.3 The fundamental theorem 128
+        5.3 Applications 129
+            5.3.1 Cohomology and harmonic forms 129
+            5.3.2 Duality theorems 130
+        Exercises 136
+    6 The Case of Kähler Manifolds 137
+        6.1 The Hodge decomposition 139
+            6.1.1 Kähler identities 139
+            6.1.2 Comparison of the Laplacians 141
+            6.1.3 Other applications 142
+        6.2 Lefschetz decomposition 144
+            6.2.1 Commutators 144
+            6.2.2 Lefschetz decomposition on forms 146
+            6.2.3 Lefschetz decomposition on the cohomology 148
+        6.3 The Hodge index theorem 150
+            6.3.1 Other Hermitian identities 150
+            6.3.2 The Hodge index theorem 152
+        Exercises 154
+    7 Hodge Structures and Polarisations 156
+        7.1 Definitions, basic properties 157
+            7.1.1 Hodge structure 157
+            7.1.2 Polarisation 160
+            7.1.3 Polarised varieties 161
+        7.2 Examples 167
+            7.2.1 Projective space 167
+            7.2.2 Hodge structures of weight 1 and abelian varieties 168
+            7.2.3 Hodge structures of weight 2 170
+        7.3 Functoriality 174
+            7.3.1 Morphisms of Hodge structures 174
+            7.3.2 The pullback and the Gysin morphism 176
+            7.3.3 Hodge structure of a blowup 180
+        Exercises 182
+    8 Holomorphic de Rham Complexes and Spectral Sequences 184
+        8.1 Hypercohomology 186
+            8.1.1 Resolutions of complexes 186
+            8.1.2 Derived functors 189
+            8.1.3 Composed functors 194
+        8.2 Holomorphic de Rham complexes 196
+            8.2.1 Holomorphic de Rham resolutions 196
+            8.2.2 The logarithmic case 197
+            8.2.3 Cohomology of the logarithmic complex 198
+        8.3 Filtrations and spectral sequences 200
+            8.3.1 Filtered complexes 200
+            8.3.2 Spectral sequences 201
+            8.3.3 The Frölicher spectral sequence 204
+        8.4 Hodge theory of open manifolds 207
+            8.4.1 Filtrations on the logarithmic complex 207
+            8.4.2 First terms of the spectral sequence 208
+            8.4.3 Deligne’s theorem 213
+        Exercises 214
+
+III. Variations of Hodge Structure 217
+    9 Families and Deformations 219
+        9.1 Families of manifolds 220
+            9.1.1 Trivialisations 220
+            9.1.2 The Kodaira–Spencer map 223
+        9.2 The Gauss–Manin connection 228
+            9.2.1 Local systems and flat connections 228
+            9.2.2 The Cartan–Lie formula 231
+        9.3 The Kähler case 232
+            9.3.1 Semicontinuity theorems 232
+            9.3.2 The Hodge numbers are constant 235
+            9.3.3 Stability of Kähler manifolds 236
+        Exercises 214
+    10 Variations of Hodge Structure 239
+        10.1 Period domain and period map 240
+            10.1.1 Grassmannians 240
+            10.1.2 The period map 243
+            10.1.3 The period domain 246
+        10.2 Variations of Hodge structure 249
+            10.2.1 Hodge bundles 249
+            10.2.2 Transversality 250
+            10.2.3 Computation of the differential 251
+        10.3 Applications 254
+            10.3.1 Curves 254
+            10.3.2 Calabi–Yau manifolds 258
+        Exercises 259
+
+IV. Cycles and Cycle Classes 261
+    11 Hodge Classes 263
+        11.1 Cycle class 264
+            11.1.1 Analytic subsets 264
+            11.1.2 Cohomology class 269
+            11.1.3 The Kähler case 273
+            11.1.4 Other approaches 275
+        11.2 Chern classes 276
+            11.2.1 Construction 276
+            11.2.2 The Kähler case 279
+        11.3 Hodge classes 279
+            11.3.1 Definitions and examples 279
+            11.3.2 The Hodge conjecture 284
+            11.3.3 Correspondences 285
+        Exercises 287
+    12 Deligne–Beilinson Cohomology and the Abel–Jacobi Map 290
+        12.1 The Abel–Jacobi map 291
+            12.1.1 Intermediate Jacobians 291
+            12.1.2 The Abel–Jacobi map 292
+            12.1.3 Picard and Albanese varieties 296
+        12.2 Properties 300
+            12.2.1 Correspondences 300
+            12.2.2 Some results 302
+        12.3 Deligne cohomology 304
+            12.3.1 The Deligne complex 304
+            12.3.2 Differential characters 306
+            12.3.3 Cycle class 310
+        Exercises 313
+Bibliography 315
+Index 319

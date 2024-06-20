@@ -86,7 +86,7 @@ V: Cohomology 260
     Universal Coefficient Theorems 281
     Excision and Homotopy 285
     de Rham's Theorem 286
-    The de Rham Theory of CP^n* 292
+    The de Rham Theory of ℂℙⁿ* 292
     Hopf's Theorem on Maps to Spheres* 297
     Differential Forms on Compact Lie Groups* 304
 
